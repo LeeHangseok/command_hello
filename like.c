@@ -7,6 +7,8 @@ int main(){
 
 	
 	pritf("Me too\n");
+	
+	printf("Yes\n");
 
 	return 0;
 }
