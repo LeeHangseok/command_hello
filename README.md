@@ -7,3 +7,4 @@ remote repository of git_midterm
 
 [A[A[B[Als
 exit
+remote repository of git_midterm
